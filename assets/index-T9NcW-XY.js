@@ -34,7 +34,7 @@ Error generating stack: `+i.message+`
               shadow-[0_8px_20px_rgba(0,0,0,0.3)]\r
               hover:scale-105\r
               transition duration-300\r
-            `,children:[oe.jsx("h2",{className:"text-lg md:text-xl font-semibold text-white",children:m.value}),oe.jsx("p",{className:"text-zinc-400 text-xs",children:m.label})]},g))}),oe.jsx("img",{ref:a,src:"/hero-cars.png",alt:"car",className:`\r
+            `,children:[oe.jsx("h2",{className:"text-lg md:text-xl font-semibold text-white",children:m.value}),oe.jsx("p",{className:"text-zinc-400 text-xs",children:m.label})]},g))}),oe.jsx("img",{ref:a,src:"/car-scroll-animation/hero-cars.png",alt:"car",className:`\r
           absolute\r
           bottom-[-4vh]\r
           w-[50vw]\r
