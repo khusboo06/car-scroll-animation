@@ -222,8 +222,6 @@ const HeroSection = () => {
             <img
                 ref={carRef}
                 src="./hero-cars.png"
-
-                //src={`${import.meta.env.BASE_URL}hero-cars.png`}
                 alt="car"
                 className="
           absolute
